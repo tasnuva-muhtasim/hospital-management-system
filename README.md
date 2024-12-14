@@ -1,4 +1,4 @@
-# hospital-management-system
+
 # hospital-management-system
 1. extract he folder in xampp htdocs folder
 2. then open terminal
